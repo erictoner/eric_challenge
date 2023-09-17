@@ -41,3 +41,7 @@ Tip: You may want to use a python virtual environment, I prefer a combination of
  - [ ] Automate ACM SSL certificate generation for nginx
  - [ ] Consider ansible for config management of ec2 app related config, terraform to continue to network and clean ec2 provisioning. Consider custom AMI.
  - [ ] Add Checkov static code analysis tool for Terraform
+
+
+# HackerRank Challenge
+https://github.com/erictoner/eric_challenge/blob/master/coding_challenge/solution.py
